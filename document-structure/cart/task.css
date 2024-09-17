@@ -11,7 +11,7 @@ body {
   position: relative;
 }
 .cart__product-count {
-  position: absolute;
+  position: absolute ;
   top: 0;
   right: 0;
   border: 2px solid green;
